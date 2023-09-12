@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    margin: 50px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 82px 20px;
+    width: 580px;
+    background: #1B244A;
+    margin:0;
+    border-radius: 15px;
+    border: 2px solid white ;   
+    
+}
+
+.home-scr, .guest-scr {
+    padding: 0 50px;
+}
+
+h3{
+    color: #eeeeee;
+    font-size:36px;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    border: 2px solid black;
+    background: #080001;
+    color: #F94F6D;
+    font-size: 120px;                                       
+    margin: 20px 0;
+}
+
+#plus-btn{
+    border: 2px solid #9AABD8;
+    background: transparent;
+    color: #9AABD8;
+    font-size: 26px;
+    border-radius: 5px;
+    font-family: inherit;
+    padding:5px;
+}
+
+#reset-btn{
+    border: 2px solid #9AABD8;
+    background: #0369A1;
+    color: #9AABD8;
+    font-size: 26px;
+    border-radius: 5px;
+    font-family: inherit;
+    padding:5px;
+    
+}
+
+/* #game{
+    color: #9AABD8;
+} */
